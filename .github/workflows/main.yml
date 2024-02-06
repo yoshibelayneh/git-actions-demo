@@ -1,5 +1,5 @@
 # This workflow will build a MuleSoft project and deploy to CloudHub
-name: TestCICD Pipeline
+name: Build and deploy to Sandbox
 on:
   push:
     branches: [main]
