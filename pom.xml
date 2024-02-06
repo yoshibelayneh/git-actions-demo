@@ -31,10 +31,9 @@
 				</configuration>
 			</plugin>
 			<plugin>
-				<mule.tools.version>1.7</mule.tools.version>
 				<groupId>org.mule.tools.maven</groupId>
-				<artifactId>mule-maven-plugin</artifactId>
-				<version>${mule.maven.plugin.version}</version>
+				<artifactId>mule-app-maven-plugin</artifactId>
+				<version>1.7</version>
 				<extensions>true</extensions>
 			<configuration>
 					<classifier>mule-application</classifier>
